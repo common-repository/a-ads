@@ -1,0 +1,19 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/components": "^27.4.0",
+    "@wordpress/primitives": "^3.54.0",
+    "@wordpress/scripts": "^27.7.0"
+  }
+}
